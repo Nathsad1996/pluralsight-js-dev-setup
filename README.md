@@ -1,0 +1,1 @@
+This is the first java script project setup like a pro!
